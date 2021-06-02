@@ -12,7 +12,7 @@ This project was created by Robischl86
 ## Description
 This is a proggressive web application that allows users to enter and track budget transactions.
 
-(Link)[https://glacial-dawn-12338.herokuapp.com/]
+[Link](https://glacial-dawn-12338.herokuapp.com/)
 ## Screenshot
 ![Screenshot](screenshot.png?raw=true) 
 ## Installation
